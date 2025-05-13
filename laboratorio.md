@@ -1,30 +1,30 @@
 1 Configuração do GIT
 
-![alt text](image.png)
+![Passo 1](Imagens/1.png)
 
 2 Criação do REPO/ Inicialização e criação do arquivo READMI.md
 
-![alt text](image-1.png)
+![Passo 2](Imagens/2.png)
 
 3 Arquivos e Commit
 
-![alt text](image-2.png)
+![Passo 3](Imagens/3.png)
 
 4 GITHUB
 
-![alt text](image-3.png)
+![Passo 4](Imagens/4.png)
 
 https://github.com/celtahd17/meu-projeto
 
 5 Conexão entre git e GitHub via token
 
-![alt text](image-4.png)
+![Passo 5](Imagens/5.png)
 
 6 Criação da nova branch
 
-![alt text](image-5.png)
+![Passo 6](Imagens/6.png)
 
 7 Merge da Branch
 
-![alt text](image-6.png)
+![Passo 7](Imagens/7.png)
 
