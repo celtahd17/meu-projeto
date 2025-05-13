@@ -1,6 +1,6 @@
 1 Configuração do GIT
 
-![Passo 1](Imagens/1.png)
+![Passo 1](https://raw.githubusercontent.com/celtahd17/meu-projeto/main/Imagens/1.png)
 
 2 Criação do REPO/ Inicialização e criação do arquivo READMI.md
 
